@@ -1,0 +1,2 @@
+# Pytesseract
+Image to text
